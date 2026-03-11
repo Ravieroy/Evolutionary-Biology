@@ -1,0 +1,3 @@
+#incomplete #more-info-needed #level_2 
+
+A [_clade_](https://en.wikipedia.org/wiki/Clade) is the group of all descendants of a particular common ancestor. Mammals are a clade because they are all descended from a single species, and they include all of the surviving descendants of that common ancestor. Clades always “bring forth after their kind,” as creationists say. The descendants of a clade are always members of that same clade, by definition. So humans are mammals (members of the clade Mammalia) because we are descended from the first mammal, whatever that creature was.
